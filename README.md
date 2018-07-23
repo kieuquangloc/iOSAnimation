@@ -1,4 +1,4 @@
-# HOw to learn iOS Animation
+# How to learn iOS Animation
 This project will help you how to make iOS animation
 
 ### Apple WWDC:
