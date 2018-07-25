@@ -1,5 +1,5 @@
 # How to learn iOS Animation
-This project will help you how to make iOS animation
+This project will help you make iOS animation easier
 
 ### Apple WWDC:
 This is the best place where you can find the best document to learn iOS
